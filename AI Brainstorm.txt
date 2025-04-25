@@ -1,0 +1,93 @@
+AI Brainstorm
+
+
+Brainstorm Methode
+
+
+Cross-impact Matrix
+helps analysts deal with complex problems when “everything is related to everything else.”
+
+The Cross-Impact Matrix provides a structure for managing the complexity that makes most analysis so difficult. It requires that analysts clearly articulate all assumptions about the relationships among variables.
+
+
+
+Wat begrijpen wij onder AI?
+- Text en taal verwerking
+- Computer visie
+- Audio en spraak verwerking
+- Patroon herkenning en voorspelling
+- Relatie en netwerk analyse
+- Zoeken en aanbeveling
+- Beslissings ondersteuning & risico analyse
+- Simulatie en generatie
+- Monitoring automatisatie
+- 
+
+Hoe kunnen we het nog begrijpen?
+
+Hoe zien wij ons werk?
+
+Kunnen wij nog specifieke taken vinden?
+
+Collectie
+- Scraping
+- Sigint
+- Social media monitoring
+- Video surveillance bekijken
+- Personen identificeren
+- Humint intake
+- Bronevaluatie
+- Deconflictie van bronnen
+
+Data cleaning en processing
+- Metadata extractie
+- Vertaling
+- Data verrijking
+- Data normalisering en standardisatie
+- Noise removal (beeld en geluid)
+- Conversie van formats
+
+Analyse
+- Link analyse en network mapping
+- Trend analyse
+- Patroon herkenning
+- Scenario ontwikkeling
+- Brainstorming
+- Tijdlijn creatie
+- Assumption check
+- Organisatie van informatie
+- Indicator ontwikkeling
+- Discours analyse
+
+
+Operationele support
+- Target selectie
+- Prioritisatie
+- Missie planning
+- Monitoring tijdens operaties
+- 
+
+Reporting
+- Schrijven van nota’s
+- Briefings voorbereiden
+- Visualisaties
+- Verspreiding
+
+Kennisbeheer en archivering
+- Indexering van rapporten en documenten
+- Zoeken
+- Onderhoud van de database
+- Tagging
+
+Veiligheid
+- Screenings
+- Insider threat monitoring
+
+Opleiding
+- Training materiaal schrijven
+- Scenario’s ontwikkelen voor opleidingen
+
+
+
+
+Hoe
